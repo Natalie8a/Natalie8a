@@ -24,8 +24,8 @@ Well, I created [this](https://www.notion.so/Naty-s-Dev-Dashboard-1e511538cbc480
 
 ## Dev toolkit
 
-🛠️ current stack: JavaScript, Rreact, HTML, CSS, Git, Bootstrap
-🌱🎯 learning (with4Geeks+on my own): Further React, Tailwind
+- 🛠️ current stack: JavaScript, Rreact, HTML, CSS, Git, Bootstrap
+- 🌱🎯 learning (with4Geeks+on my own): Further React, Tailwind
 
 ## GitHub Stats📊📈
 
@@ -35,11 +35,11 @@ Well, I created [this](https://www.notion.so/Naty-s-Dev-Dashboard-1e511538cbc480
 
 
 ## Fun Facts About Me⚡ 
-⚙️ My favorite subject in Philosophy was Logic. One time, doing a Logic homework at my then student residence, a friend in tech was passing by and said something like "Oh, that actually looks like something I'd do for my classes!"... Whence my curiosity for web development sprawned 🐣
-🌍 Amongst my 6 spoken anguages:
-	 🇨🇴🇫🇷🇺🇸3 are at native to near-native level
-	🇸🇪Only 1 I fully learned on Duolingo🦉
-		🙈And I have played with 18 languages on Duolingo just for fun, without any intent on actually learning them 😇
+- ⚙️ My favorite subject in Philosophy was Logic. One time, doing a Logic homework at my then student residence, a friend in tech was passing by and said something like "Oh, that actually looks like something I'd do for my classes!"... Whence my curiosity for web development sprawned 🐣
+- 🌍 Amongst my 6 spoken anguages:
+	 - - 🇨🇴🇫🇷🇺🇸3 are at native to near-native level
+	- - 🇸🇪Only 1 I fully learned on Duolingo🦉
+		- - - 🙈And I have played with 18 languages on Duolingo just for fun, without any intent on actually learning them 😇
 
 
 
