@@ -36,7 +36,7 @@ Well, I created [this](https://www.notion.so/Naty-s-Dev-Dashboard-1e511538cbc480
 
 
 ## Fun Facts About Me⚡ 
-- ⚙️ My favorite subject in Philosophy was Logic. One time, doing a Logic homework at my then student residence, a friend in tech was passing by and said something like "Oh, that actually looks like something I'd do for my classes!"... Whence my curiosity for web development sprawned 🐣
+- ⚙️ My favorite subject in Philosophy was Logic. One time, doing a Logic homework at my then student residence, a friend in tech was passing by and said something like "Oh, that actually looks like something I'd do for my classes!"... Whence my curiosity for web development spawned 🐣
 - 🌍 Amongst my 6 spoken anguages:
 	 -  🇨🇴🇫🇷🇺🇸3 are at native to near-native level
 	-  🇸🇪Only 1 I fully learned on Duolingo🦉
