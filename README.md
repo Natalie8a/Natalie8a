@@ -3,7 +3,7 @@
 
  - [ ] ^--Did you check it out? 😊
 
-💻 Full-Stack developer in the making 🤓 | Polyglot 🗣️ (6 spoken languages🌍) | Recovering perfectionnist💯 (trying to find the ✨perfect✨😉 balance between *irrealistically ideal right now* and: done, works, looks good, and could *later* be improved if need be). Oh, I also have a master's degree in philosophy btw 😊.
+💻 Full-Stack developer in the making 🤓 | Polyglot 🗣️ (6 spoken languages🌍) | Recovering perfectionnist💯 (trying to find the ✨perfect✨😉 balance between *unrealistically ideal right now* and: done, works, looks good, and could *later* be improved if need be). Oh, I also have a master's degree in philosophy btw 😊.
 # In a nutshell🐚
 
 
