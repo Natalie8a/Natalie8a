@@ -21,6 +21,7 @@ Well, I created [this](https://www.notion.so/Naty-s-Dev-Dashboard-1e511538cbc480
 
  - Diving deeper into React so that I can turn the simple Random Excuse Generator, that I created as a 4GeekAcademy mini-project, into a much more complex and customizable one.
  - I'm planning on creating the website for a restaurant that doesn't have one yet... But I'm brainstorming and starting before actually offering this to them. If they're not interested, I'll just do a fictional restaurant website.
+ - And well, I guess it goes without saying, I'm following the bootcamp and doing those required readings and projects.
 
 ## Dev toolkit
 
