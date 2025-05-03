@@ -40,7 +40,7 @@ Well, I created [this](https://www.notion.so/Naty-s-Dev-Dashboard-1e511538cbc480
 - 🌍 Amongst my 6 spoken anguages:
 	 -  🇨🇴🇫🇷🇺🇸3 are at native to near-native level
 	-  🇸🇪Only 1 I fully learned on Duolingo🦉
-		-  🙈And I have played with 18 languages on Duolingo just for fun, without any intent on actually learning them 😇
+		-  🙈And I have played with 18 languages on Duolingo just for fun, without any intention of actually learning them 😇
 
 
 
