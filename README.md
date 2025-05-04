@@ -10,9 +10,8 @@
 ```mermaid
 flowchart LR
     A["Philosophy"] --> D{"Academia? Nah..."}
-    D -- Languages --> C("Customer service")
-    C -- Logic -->  n1["✨Full-Stack Dev✨"]
-    n1@{ shape: internal-storage} style n1 fill:#000000
+    D -- Languages --> C["Customer service"]
+    C -- Logic --> B("🙋‍♀️Full-Stack Dev🎯")
 
 ```
 # What I've done so far
@@ -42,7 +41,7 @@ Well, I created [this](https://www.notion.so/Naty-s-Dev-Dashboard-1e511538cbc480
 - 🌍 Amongst my 6 spoken languages:
 	 -  🇨🇴🇫🇷🇺🇸3 are at native to near-native level
 	-  🇸🇪Only 1 I fully learned on Duolingo🦉
-		-  🙈And I have played with 18 languages on Duolingo just for fun, without any intention of actually learning them 😇
+		-  🙈And I have played with about 16 languages on Duolingo just for fun, without any intention of actually learning them 😇
 
 
 
