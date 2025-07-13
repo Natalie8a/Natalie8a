@@ -29,6 +29,7 @@ flowchart LR
 - 🌱🎯 planning to learn: Tailwind CSS and contributing to open source.
 
 ## GitHub Stats📊📈
+(Just found out they won't become accurate until I get ownership back from my bootcamp repos after graduation)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Natalie8a&theme=radical&show_icons=true&title_color=297de9&text_color=4493f8&icon_color=A5D6FF&bg_color=010101)
 
